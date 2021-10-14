@@ -1,4 +1,6 @@
-# Ibook
+# Buy App - App para simular compra de serviços 
+
+![alt text](https://imgur.com/a/TrdnQrB)
 
 ## Build Setup
 
