@@ -1,6 +1,6 @@
 # Buy App - App para simular compra de serviços 
 
-![alt text](https://imgur.com/a/TrdnQrB)
+![alt text](https://i.imgur.com/4pb11fz.png)
 
 ## Build Setup
 
