@@ -1,7 +1,7 @@
 <template>
   <div class="container-header">
     <h2>Escolha o Pacote</h2>
-
+    
   </div>
 </template>
 

@@ -25,8 +25,8 @@ export default Vue.extend({
       default: '',
     },
     valueCard: {
-      type: Number,
-      default: 0,
+      type: String,
+      default: '0',
     },
     textCard: {
       type: String,
